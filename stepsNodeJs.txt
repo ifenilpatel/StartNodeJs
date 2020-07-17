@@ -5,3 +5,5 @@ express --no-view
 npm install
 
 npm start
+
+npm i nodemon mysql2 fs-extra dotenv base64-img
